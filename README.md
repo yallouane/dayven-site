@@ -1,4 +1,4 @@
 # Dayven — site public
 
-Pages Support et textes légaux de l’application Dayven, publiées par GitHub Pages à https://yallouane.github.io/dayven-site/.
-Générées depuis le dépôt de l’application (`legal/*.md` → `scripts/build_legal_site.py`) ; ne pas modifier ici à la main.
+Support and legal pages of the Dayven app, served by GitHub Pages at https://yallouane.github.io/dayven-site/.
+Generated from the app repository (`legal/*.md` → `scripts/build_legal_site.py`); do not edit here by hand.
